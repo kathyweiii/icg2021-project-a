@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{9A723657-4D1B-6F14-5598-FB22AC590F13}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/ObstacleEntity.cs">
+    <Files>
+      <File FileName="Assets/scripts/CarEntity.cs" Line="157" Column="42" />
+      <File FileName="Assets/scripts/Parking.cs" Line="10" Column="6" />
+      <File FileName="Assets/scripts/ObstacleEntity.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="3734edc2-ab98-4381-a0b3-ee7f5105216f" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
